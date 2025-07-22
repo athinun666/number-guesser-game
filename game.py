@@ -50,7 +50,6 @@ def play_game():
     # import random
     # secret_number = random.randint(1, 100)
     # attempts = 0
-    #
     # while True:
     #     attempts += 1
     #     guess = get_player_guess()
